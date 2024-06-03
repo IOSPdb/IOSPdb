@@ -34,21 +34,6 @@ The IOSPdb project aims to establish a versatile platform catering to individual
 ### Continuous Improvement
 Regular updates and enhancements based on user feedback, ensuring a dynamic platform that accommodates the needs and preferences of contributors at all levels of expertise.
 
-### Screenshots
-
-![Screenshot 1](https://prod-files-secure.s3.us-west-2.amazonaws.com/ca796369-f4b5-4dac-9883-97304ba9e409/058da75f-b5c7-4e31-bb64-843392d80a34/Screenshot_2024-03-08_at_10.19.59_AM.png)
-
-![Screenshot 2](https://prod-files-secure.s3.us-west-2.amazonaws.com/ca796369-f4b5-4dac-9883-97304ba9e409/dda56efd-d9b2-4df6-b60d-16e1f7fe1ab5/Screenshot_2024-03-08_at_10.18.29_AM.png)
-
-![Screenshot 3](https://prod-files-secure.s3.us-west-2.amazonaws.com/ca796369-f4b5-4dac-9883-97304ba9e409/ed17b9e7-216c-4a60-b354-8b4aee9bacdd/Screenshot_2024-03-08_at_10.17.20_AM.png)
-
-![Screenshot 4](https://prod-files-secure.s3.us-west-2.amazonaws.com/ca796369-f4b5-4dac-9883-97304ba9e409/42e59bc7-efb2-482d-9122-bf715193a804/Screenshot_2024-03-08_at_11.19.42_AM.png)
-
-![Screenshot 5](https://prod-files-secure.s3.us-west-2.amazonaws.com/ca796369-f4b5-4dac-9883-97304ba9e409/496bcfdc-6248-4b36-9a10-b50be436f935/Screenshot_2024-03-08_at_11.27.45_AM.png)
-
-![Screenshot 6](https://prod-files-secure.s3.us-west-2.amazonaws.com/ca796369-f4b5-4dac-9883-97304ba9e409/3fecedb6-f226-46ed-8e68-346d67b0b8e2/Screenshot_2024-03-08_at_11.56.06_AM.png)
-
-### MVP Overview
 
 **1. User Authentication:**
    - Secure sign-up, log-in, and account management using JWT.
