@@ -61,4 +61,4 @@ Regular updates and enhancements based on user feedback, ensuring a dynamic plat
 
 ---
 
-Feel free to expand upon or modify any section to better fit your project's needs!
+Feel free to expand upon or modify any section!
